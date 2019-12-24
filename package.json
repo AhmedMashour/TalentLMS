@@ -1,0 +1,34 @@
+{
+  "name": "talentlms",
+  "version": "1.0.0",
+  "description": "TalentLMS Node-SDK based on official TalentLMS API documentation",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashhour04/TalentLMS.git"
+  },
+  "keywords": [
+    "talentlms",
+    "talent",
+    "talentlms-api",
+    "api",
+    "sdk",
+    "talentlms-sdk"
+  ],
+  "author": "Ahmed Mashhour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashhour04/TalentLMS/issues"
+  },
+  "homepage": "https://github.com/mashhour04/TalentLMS#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "http": "0.0.0"
+  }
+}
