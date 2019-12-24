@@ -1,4 +1,4 @@
-# talentlms-twiliobot *1.0.0*
+# talentlms *1.0.0*
 
 
 
