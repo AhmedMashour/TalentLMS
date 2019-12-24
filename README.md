@@ -12,11 +12,11 @@ A super-easy, cloud LMS software to train your employees, partners and customers
 
 Add this line to your application's Gemfile:
 
-    ```npm i talentlms -g```
+    ``` npm i talentlms -g ```
 
 ## Usage
-    ```
-    const TalentLMS = require('./TalentLMS');
+    
+    ```const TalentLMS = require('./TalentLMS');
     const tl = new TalentLMS('exmaple.talentlms.com', 'apiKey');
 
     tl.Users.getUsers()
@@ -27,5 +27,7 @@ Add this line to your application's Gemfile:
 
     tl.Users.setStatus(userId, status)
     ```
-## Documentation
+## SDK Documentation (https://github.com/mashhour04/TalentLMS/blob/master/DOCUMENTATION.md)
+
+## TalentLMS API Documentation (https://www.talentlms.com/pages/docs/TalentLMS-API-Documentation.pdf)
 
