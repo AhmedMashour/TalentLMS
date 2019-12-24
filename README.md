@@ -27,7 +27,7 @@ Add this line to your application's Gemfile:
 
     tl.Users.setStatus(userId, status)
     ```
-## SDK Documentation (https://github.com/mashhour04/TalentLMS/blob/master/DOCUMENTATION.md)
+## [SDK Documentation](https://github.com/mashhour04/TalentLMS/blob/master/DOCUMENTATION.md)
 
-## TalentLMS API Documentation (https://www.talentlms.com/pages/docs/TalentLMS-API-Documentation.pdf)
+## [TalentLMS API Documentation](https://www.talentlms.com/pages/docs/TalentLMS-API-Documentation.pdf)
 
