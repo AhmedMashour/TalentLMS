@@ -1,6 +1,6 @@
 {
   "name": "talentlms",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "TalentLMS Node-SDK based on official TalentLMS API documentation",
   "main": "index.js",
   "directories": {
