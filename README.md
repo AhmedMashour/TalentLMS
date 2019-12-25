@@ -12,7 +12,7 @@ A super-easy, cloud LMS software to train your employees, partners and customers
 
 Run this command:
 
-        npm i talentlms -g 
+        npm i talentlms
 
 ## Usage
     
