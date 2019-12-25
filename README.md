@@ -10,7 +10,7 @@ A super-easy, cloud LMS software to train your employees, partners and customers
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Run this command:
 
         npm i talentlms -g 
 
