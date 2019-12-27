@@ -12,13 +12,13 @@ A super-easy, cloud LMS software to train your employees, partners and customers
 
 Run this command:
 
-        npm i talentlms
+        npm i talentlms -s
 
 ## Usage
     
     const TalentLMS = require('talentlms');
     
-    const tl = new TalentLMS('exmaple.talentlms.com', 'apiKey');
+    const tl = new TalentLMS('04Academy.talentlms.com', 'apiKey');
 
     tl.Users.getUsers()
 
