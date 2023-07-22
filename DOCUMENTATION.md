@@ -1084,7 +1084,7 @@ Login a User
 
 
 
-#### userLogin(obj) 
+#### userLogout(obj) 
 
 Logout a User
 
