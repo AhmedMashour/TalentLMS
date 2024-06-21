@@ -143,7 +143,7 @@ class Users {
      * @param obj.user_id The id of the user.
      * @param obj.next  next url example.com.
      */
-    userLogin(obj) {
+    userLogout(obj) {
         if (!obj.user_id) {
             throw new Error('For Logging Out user_id is required');
         }
