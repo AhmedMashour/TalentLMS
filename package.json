@@ -1,6 +1,6 @@
 {
   "name": "talentlms",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "TalentLMS Node-SDK based on official TalentLMS API documentation",
   "main": "index.js",
   "directories": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/AhmedMashour/TalentLMS#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^1.7.2"
   }
 }
